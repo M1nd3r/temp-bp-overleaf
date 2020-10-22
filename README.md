@@ -11,4 +11,4 @@ Upload the en or cz zip file into the overleaf as a new project and compile it.
 Nahrajte český nebo anglický zip do overleaf jako nový projekt a zkompilujte.
 
 ---------
-Některé soubory jsou redundantní, protože pochází z původního template od Martina Mareše
+Některé soubory jsou nepoužité, protože pochází z původního template od Martina Mareše
